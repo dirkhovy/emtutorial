@@ -7,3 +7,7 @@ To run the notebook, open a terminal window, move to the directory where you dow
 cd emtutorial
 ipyhon notebook
 ```
+
+Have fun, and feel free to leave feedback!
+
+Dirk
